@@ -13,5 +13,6 @@ Compile and run the RoadTripPlanner.java file
 
 I implement the Djkstra's Algorithm to determine the shortest route.
 The code is quite unneccesarly convoluted as I was/am still learning to write cleaner code. You are welcome to make/recommend changes you see fit.
+
                     \- Kaleb Gebrehiwot
 
