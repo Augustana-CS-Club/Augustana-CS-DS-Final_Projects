@@ -1,0 +1,18 @@
+Lincoln,50
+Sioux Falls,163
+Kansas City,165
+Fort Dodge,124
+Des Moines,122
+break,
+Accomodations,
+Accomodation-1,24,100,Hotel,3.5,3
+Accomodation-2,12,50,Motel,2.3,2
+break,
+TouristAttractions,
+TouristAttraction-1,2,0,150,[Description Here]
+TouristAttraction-2,3,50,30,[Description Here]
+break,
+FoodPlaces,
+FoodPlace-1,1,15,Fast-Food,Non-Vegan only,false
+FooodPlace-2,2,55,Fancy Restaurant,Vegan/Vegiterian/Non-Vegan,true
+break,

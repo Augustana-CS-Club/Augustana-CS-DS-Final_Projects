@@ -1,0 +1,19 @@
+Alliance,326
+Pierre,188
+Minneapolis,197
+Fort Dodge,148
+Omaha,163
+break,
+Accomodations,
+Hampton Inn,24,120,Inn & Suits,3.5,5
+Hyatt Place Sioux Falls,24,110,Guest House,3.7,5
+break,
+TouristAttractions,
+Falls Park,2,0,25, The park includes a cafe, an observation tower, and the remains of an old mill.
+Old Courthouse Museum,3,10,20, The former county courthouse of Minnehaha County. South Dakota.
+SculptureWalk,1,30,0, SculptureWalk is an exciting exhibit of over 65 sculptures displayed year-round from the Washington Pavilion to Falls Park in downtown Sioux Falls.
+break,
+FoodPlaces,
+Minerva's,2,50,Italian Restaurant,Vegan/Vegiterian/Non-Vegan,true
+Grille 26,1,25,Grill Bar,Non-vegan,false
+break,

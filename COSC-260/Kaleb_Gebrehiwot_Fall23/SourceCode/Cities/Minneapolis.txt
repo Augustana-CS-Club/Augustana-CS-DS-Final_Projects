@@ -1,0 +1,18 @@
+Bemidji,189
+Duluth,136
+Eau Claire,87
+Rochester,78
+Sioux Falls,197
+break,
+Accomodations,
+Embassy Suites by Hilton,24,200,Hotel & Suite,4.3,5
+The Westin,24,110,Hotel,3.7,3
+break,
+TouristAttractions,
+Mall of America,5,100,500,Giant 4-level mall with hundreds of stores, plus restaurants, a theme park, cinema & aquarium.
+Mill city museum,3,25,50,Mill City Museum is an American Minnesota Historical Society museum in Minneapolis.
+break,
+FoodPlaces,
+The Capital Grille,2,25,Grill house,Grill and bar,false
+Murray's,2,50,Fancy Restaurant,Everything ranging from,true
+break,
